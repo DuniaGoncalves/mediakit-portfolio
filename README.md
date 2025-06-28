@@ -9,7 +9,6 @@ This portfolio highlights my work as a content creator and mom, capturing everyd
 - React
 - Tailwind CSS
 - Formspree (for contact form)
-- Hosted media assets in `/src/assets`
 
 ## 📁 Folder Structure
 ```
